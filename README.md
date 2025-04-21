@@ -4,7 +4,7 @@ A full-stack food delivery platform where users can browse multiple restaurants,
 
 ---
 
-## 🚀 Features
+## 🚀 Featur
 
 - 🏪 **Multi-Restaurant Support** — Browse and order from various restaurants.
 - 🍕 **User Registration & Secure Login**
