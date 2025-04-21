@@ -1,4 +1,4 @@
-# 🍽️ Multi-Restaurant Food Delivery Website
+# 🍽️ QuickBites Food Delivery Website
 
 A full-stack food delivery platform where users can browse multiple restaurants, explore menus, add items to their cart, place orders, and track delivery in real-time — all through a smooth and modern web experience.
 
@@ -35,7 +35,7 @@ A full-stack food delivery platform where users can browse multiple restaurants,
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/avipatel2004/QuickBites-Food-Delivery-Website
+git clone https://github.com/AvinashPatel309/QuickBites-Food-Delivery-Website
 ```
 
 2. **Install dependencies for each part**
